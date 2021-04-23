@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acd3f3e1-94eb-473d-a69b-99a14460cb01" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="UnitTestDemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PxfVlp3Rea5Ot7T70SRgKkg5Xk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/FirstProject" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CustomerControllerImplTest.substractBodyMassIndex_ificin">
+    <configuration name="CustomerControllerImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Controller" />
+      <option name="MAIN_CLASS_NAME" value="Controller.CustomerControllerImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerControllerImplTest.bodyMassIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Controller" />
+      <option name="MAIN_CLASS_NAME" value="Controller.CustomerControllerImplTest" />
+      <option name="METHOD_NAME" value="bodyMassIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerControllerImplTest.fatOrThin_ikinciIfIcin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Controller.CustomerControllerImplTest" />
+      <option name="METHOD_NAME" value="fatOrThin_ikinciIfIcin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerControllerImplTest.substractBodyMassIndex_ificin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Controller" />
+      <option name="MAIN_CLASS_NAME" value="Controller.CustomerControllerImplTest" />
+      <option name="METHOD_NAME" value="substractBodyMassIndex_ificin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerControllerImplTest.substractMassIndex_elseicin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Controller" />
+      <option name="MAIN_CLASS_NAME" value="Controller.CustomerControllerImplTest" />
+      <option name="METHOD_NAME" value="substractMassIndex_elseicin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerControllerImplTest.substractBodyMassIndex_ificin" />
+        <item itemvalue="JUnit.CustomerControllerImplTest.substractMassIndex_elseicin" />
+        <item itemvalue="JUnit.CustomerControllerImplTest" />
+        <item itemvalue="JUnit.CustomerControllerImplTest.fatOrThin_ikinciIfIcin" />
+        <item itemvalue="JUnit.CustomerControllerImplTest.bodyMassIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acd3f3e1-94eb-473d-a69b-99a14460cb01" name="Default Changelist" comment="" />
+      <created>1564472189246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564472189246</updated>
+      <workItem from="1564472193150" duration="31190000" />
+      <workItem from="1564983595669" duration="288000" />
+      <workItem from="1564987488856" duration="3293000" />
+      <workItem from="1565095470410" duration="3183000" />
+      <workItem from="1565162530983" duration="551000" />
+      <workItem from="1565163101665" duration="8647000" />
+      <workItem from="1565262259192" duration="11186000" />
+      <workItem from="1566196883006" duration="590000" />
+      <workItem from="1566199489059" duration="591000" />
+      <workItem from="1566202741966" duration="1693000" />
+      <workItem from="1566210730526" duration="1766000" />
+      <workItem from="1566212543217" duration="1764000" />
+      <workItem from="1566214357555" duration="1768000" />
+      <workItem from="1566216195493" duration="1740000" />
+      <workItem from="1566218010306" duration="1586000" />
+      <workItem from="1566220104038" duration="1763000" />
+      <workItem from="1566221919590" duration="1743000" />
+      <workItem from="1566223728225" duration="790000" />
+      <workItem from="1566290133887" duration="599000" />
+      <workItem from="1566291920419" duration="599000" />
+      <workItem from="1566299007596" duration="594000" />
+      <workItem from="1566301677085" duration="590000" />
+      <workItem from="1566312533275" duration="6000" />
+      <workItem from="1566371833411" duration="884000" />
+      <workItem from="1566374345408" duration="606000" />
+      <workItem from="1566376218969" duration="596000" />
+      <workItem from="1566378583464" duration="595000" />
+      <workItem from="1566387905299" duration="599000" />
+      <workItem from="1566461928091" duration="595000" />
+      <workItem from="1566561343673" duration="606000" />
+      <workItem from="1566737960711" duration="604000" />
+      <workItem from="1566740319236" duration="595000" />
+      <workItem from="1566742600009" duration="602000" />
+      <workItem from="1566804312723" duration="622000" />
+      <workItem from="1566807344032" duration="629000" />
+      <workItem from="1566809297092" duration="919000" />
+      <workItem from="1566816838803" duration="599000" />
+      <workItem from="1566818651678" duration="421000" />
+      <workItem from="1566819107734" duration="106000" />
+      <workItem from="1566820699484" duration="67000" />
+      <workItem from="1566820782865" duration="2319000" />
+      <workItem from="1566890286665" duration="11550000" />
+      <workItem from="1566974675064" duration="4799000" />
+      <workItem from="1567075771090" duration="750000" />
+      <workItem from="1567080107497" duration="2214000" />
+      <workItem from="1570030751773" duration="793000" />
+      <workItem from="1570032554440" duration="905000" />
+      <workItem from="1570034871544" duration="613000" />
+      <workItem from="1570037735643" duration="591000" />
+      <workItem from="1570048561606" duration="589000" />
+      <workItem from="1583252468820" duration="797000" />
+      <workItem from="1590491285759" duration="15000" />
+      <workItem from="1590604397187" duration="74000" />
+      <workItem from="1590613659516" duration="389000" />
+      <workItem from="1619174459761" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UnitTestDemo$CustomerControllerImplTest.ic" NAME="CustomerControllerImplTest Coverage Results" MODIFIED="1566809653847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UnitTestDemo$CustomerControllerImplTest_bodyMassIndex.ic" NAME="CustomerControllerImplTest.bodyMassIndex Coverage Results" MODIFIED="1566974984262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>
